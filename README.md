@@ -1,5 +1,5 @@
 # A-regression-approach-for-photodiode-Lux-Measurement-
-Lux is measured using a regression method
+Lux is measured using a regression method,
 Photodiode is a semiconductor device that converts light into current when photons are absorbed on photodiode then it produces output current, Photodiode has many features and application, Li-Fi is the new emerging technology where we can use the photodiode for communication because it has high reception bandwidth and high response as compared to Light-dependent register(LDR) and phototransistor. Our smartphone consists of CMOS sensor which has an array of the photodiode on a single chip, that can be used for communication using rolling shutter effect.         
 Measurment of lux is also important for many application i.e. Received signal strength (RSS) calculation.
 
