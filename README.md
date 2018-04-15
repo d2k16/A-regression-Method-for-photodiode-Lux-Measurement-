@@ -13,3 +13,6 @@ Measurment of lux is also important for many application i.e. Received signal st
 Voltage is measured using multimeter and LUX value is measured form LUX meter, Numbers of samples are taken for learning the model using regression approach.
 
 ![image](https://user-images.githubusercontent.com/32608510/38775562-3d5b28bc-40a3-11e8-9fe2-eda24f461241.png) Fig. Boxplot represtents distribution of voltage and lux 
+
+##Features
+![image](https://user-images.githubusercontent.com/32608510/38775615-bdc5ff80-40a4-11e8-95af-353ecb0edb56.png)
