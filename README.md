@@ -15,6 +15,6 @@ Voltage is measured using multimeter and LUX value is measured form LUX meter, N
 ![image](https://user-images.githubusercontent.com/32608510/38775562-3d5b28bc-40a3-11e8-9fe2-eda24f461241.png) Fig. Boxplot represtents distribution of voltage and lux 
 
 
-##Features
+### Features
 
 ![image](https://user-images.githubusercontent.com/32608510/38775615-bdc5ff80-40a4-11e8-95af-353ecb0edb56.png)
