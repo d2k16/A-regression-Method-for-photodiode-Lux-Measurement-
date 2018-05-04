@@ -52,7 +52,7 @@ predictedgb=gb.predict(test_features)
 accr5=gb.score(test_features,test_labels)
 print('GB accuacy=',accr5)
 
-###Output
+### Output
 randomforst accuracy= 0.978791136646
 linear regression accuracy= 0.933613443461
 knn accuracy= 0.984196151073
